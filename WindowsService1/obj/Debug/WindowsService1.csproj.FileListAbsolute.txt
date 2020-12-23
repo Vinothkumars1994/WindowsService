@@ -1,0 +1,9 @@
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Debug\WindowsService1.exe
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\obj\Debug\WindowsService1.FirstWinService.resources
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\obj\Debug\WindowsService1.exe
+D:\MyProjects\Windows Service\FirstWinService\WindowsService1\obj\Debug\WindowsService1.pdb

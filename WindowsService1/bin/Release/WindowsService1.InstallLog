@@ -1,0 +1,41 @@
+﻿Installing assembly 'D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.InstallLog
+Rolling back assembly 'D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.InstallLog
+Installing assembly 'D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.InstallLog
+Rolling back assembly 'D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.InstallLog
+Installing assembly 'D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.InstallLog
+Installing service FirstWinService...
+Service FirstWinService has been successfully installed.
+Creating EventLog source FirstWinService in log Application...
+Committing assembly 'D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.InstallLog
+Uninstalling assembly 'D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.exe
+   logfile = D:\MyProjects\Windows Service\FirstWinService\WindowsService1\bin\Release\WindowsService1.InstallLog
+Removing EventLog source FirstWinService.
+Service FirstWinService is being removed from the system...
+Service FirstWinService was successfully removed from the system.
